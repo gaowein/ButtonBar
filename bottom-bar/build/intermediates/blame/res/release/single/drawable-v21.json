@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Android\\work\\ButtonBar\\bottom-bar\\build\\intermediates\\res\\merged\\release\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\20160609\\.android\\build-cache\\e5bbc098b340321b4f66142080f0e7a9459bb8e5\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Android\\work\\ButtonBar\\bottom-bar\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\20160609\\.android\\build-cache\\6f5f546e0fd9ef58d9fb4b2dc474ed0c3ffb611e\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\work\\ButtonBar\\bottom-bar\\build\\intermediates\\res\\merged\\release\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\20160609\\.android\\build-cache\\e5bbc098b340321b4f66142080f0e7a9459bb8e5\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Android\\work\\ButtonBar\\bottom-bar\\build\\intermediates\\res\\merged\\release\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\20160609\\.android\\build-cache\\e5bbc098b340321b4f66142080f0e7a9459bb8e5\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\work\\ButtonBar\\bottom-bar\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\20160609\\.android\\build-cache\\6f5f546e0fd9ef58d9fb4b2dc474ed0c3ffb611e\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\work\\ButtonBar\\bottom-bar\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\20160609\\.android\\build-cache\\6f5f546e0fd9ef58d9fb4b2dc474ed0c3ffb611e\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\work\\ButtonBar\\bottom-bar\\build\\intermediates\\res\\merged\\release\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\20160609\\.android\\build-cache\\e5bbc098b340321b4f66142080f0e7a9459bb8e5\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Android\\work\\ButtonBar\\bottom-bar\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\20160609\\.android\\build-cache\\6f5f546e0fd9ef58d9fb4b2dc474ed0c3ffb611e\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]
